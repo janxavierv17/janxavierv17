@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @janxavierv17 an aspiring front-end web developer.
-- 👀 I’m interested in creating feature rich websites and  improving my UI/UX design.
-- 🌱 I’m currently expanding my knowledge in Web Development by learning React, NodeJS/ExpressJS, SQL 
+- 👀 I’m currently working on MERN Stack, typescript and leveraging css-in-js (styled-componets) project.
+- 🌱 I am always learning and expanding my knowledge in Web Development.
 
-- 📫 You can reach me through my email address.
+- 📫 You can reach me through the following.
   - janxavierv17@hotmail.com
+  - https://www.linkedin.com/in/janv/
 
 <!---
 janxavierv17/janxavierv17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
