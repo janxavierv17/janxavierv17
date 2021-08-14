@@ -5,6 +5,7 @@
 - 📫 You can reach me through the following.
   - janxavierv17@hotmail.com
   - https://www.linkedin.com/in/janv/
+  - https://janxavierv17.github.io/jx-protfolio/
 
 <!---
 janxavierv17/janxavierv17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
