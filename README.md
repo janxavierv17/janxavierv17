@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @janxavierv17 an aspiring front-end web developer.
-- 👀 I’m currently working on MERN Stack, typescript and leveraging css-in-js (styled-componets) project.
+- 👀 I’m currently working on MERN Stack, typescript and leveraging css-in-js (styled-components) project.
 - 🌱 I am always learning and expanding my knowledge in Web Development.
 
 - 📫 You can reach me through the following.
