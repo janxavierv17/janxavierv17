@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @janxavierv17 an aspiring front-end web developer.
-- 👀 I’m currently working on MERN Stack, typescript and leveraging css-in-js (styled-components) project.
-- 🌱 I am always learning and expanding my knowledge in Web Development.
+👋 Hi, I’m @janxavierv17 an aspiring front-end web developer.
+🌱 I am always learning and expanding my knowledge to become a better developer.
+- 👀  My technologies and Stack:
+  - MongoDB ExpressJS React library NodeJS
+  -  TypeScript
+  -  Styled-components
+  -  Jest
 
 - 📫 You can reach me through the following.
   - janxavierv17@hotmail.com
