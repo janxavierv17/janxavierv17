@@ -1,6 +1,6 @@
 👋 Hi, I’m @janxavierv17 an aspiring front-end web developer. <br/>
 🌱 I am always learning and expanding my knowledge to become a better developer.
-- 👀  My technologies and Stack:
+- 👀  The technologies and Stack I use:
   - MongoDB ExpressJS React library NodeJS
   -  TypeScript
   -  Styled-components
