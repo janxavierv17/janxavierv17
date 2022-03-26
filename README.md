@@ -2,9 +2,7 @@
 🌱 I am always learning and expanding my knowledge to become a better developer.
 - 👀  The technologies and Stack I use:
   - MongoDB ExpressJS React library NodeJS
-  -  TypeScript
   -  Styled-components
-  -  Jest
 
 - 📫 You can reach me through the following.
   - janxavierv17@hotmail.com
