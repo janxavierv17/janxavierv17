@@ -3,6 +3,7 @@
 - 👀  The technologies and Stack I use:
   - MongoDB, ExpressJS, React, and NodeJS
   -  Styled-components
+  -  jest
 
 - 📫 You can reach me through the following.
   - janxavierv17@hotmail.com
