@@ -4,6 +4,9 @@
   - MongoDB, ExpressJS, React, and NodeJS
   -  Styled-components
   -  jest
+  -  react-testing-library
+  -  NextJS
+  -  TypeScript
 
 - 📫 You can reach me through the following.
   - janxavierv17@hotmail.com
