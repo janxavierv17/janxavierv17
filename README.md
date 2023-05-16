@@ -1,12 +1,12 @@
 👋 Hi, I’m @janxavierv17 who is now an official Full-Stack Developer. <br/>
 🌱 I am always learning and expanding my knowledge to become a better developer.
-- 👀  The technologies and Stack I use:
-  - MongoDB, ExpressJS, React, and NodeJS
-  -  Styled-components
+- 👀 The technologies and Stack I use:
+  - NextJS
+  -  TypeScript
+  -  styled-components
   -  jest
   -  react-testing-library
-  -  NextJS
-  -  TypeScript
+
 
 - 📫 You can reach me through the following.
   - janxavierv17@hotmail.com
