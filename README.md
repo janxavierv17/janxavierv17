@@ -4,10 +4,10 @@
   -  React
   -  NextJS
   -  TypeScript
-  -  styled-components / CSS
-  -  jest 
+  -  styled-components / tailwindcss / CSS
+  -  jest / Playwright
   -  react-testing-library / Enzyme
-
+  -  Python / Django
 
 - 📫 You can reach me through the following.
   - janxavierv17@hotmail.com
