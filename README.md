@@ -1,13 +1,14 @@
-👋 Hi, I’m @janxavierv17 who is now an official Full-Stack Developer. <br/>
-🌱 I am always learning and expanding my knowledge to become a better developer.
+👋 Hi, I’m @janxavierv17 who is now an official Full-Stack Engineer. <br/>
+🌱 I am always learning and expanding my knowledge to become a better engineer.
 - 👀 The technologies and Stack I use:
-  -  React
-  -  NextJS
+  -  JavaScript
   -  TypeScript
+  -  React.JS
+  -  Node.JS / Express.JS
+  -  Next.JS
   -  styled-components / tailwindcss / CSS
   -  jest / Playwright
   -  react-testing-library / Enzyme
-  -  Python / Django
 
 - 📫 You can reach me through the following.
   - janxavierv17@hotmail.com
