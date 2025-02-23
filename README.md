@@ -6,7 +6,7 @@
   -  React.JS
   -  Node.JS / Express.JS
   -  Next.JS
-  -  styled-components / tailwindcss / CSS
+  -  styled-components / tailwindcss
   -  jest / Playwright
   -  react-testing-library / Enzyme
 
