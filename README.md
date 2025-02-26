@@ -1,8 +1,7 @@
 👋 Hi, I’m @janxavierv17 who is now an official Full-Stack Frontend focused Engineer. <br/>
 🌱 I am always learning and expanding my knowledge to become a better engineer.
 - 👀 The technologies and Stack I use:
-  -  JavaScript
-  -  TypeScript
+  -  JavaScript / TypeScript
   -  React.JS
   -  Next.JS
   -  Node.JS / Express.JS
