@@ -2,9 +2,9 @@
 🌱 I am always learning and expanding my knowledge to become a better engineer.
 - 👀 The technologies and Stack I use:
   -  JavaScript / TypeScript
-  -  React.JS
+  -  React
   -  Next.JS
-  -  Node / Express / Deno
+  -  Node / Express
   -  styled-components / tailwindcss
   -  jest / Playwright
   -  react-testing-library / Enzyme
