@@ -4,7 +4,7 @@
   -  JavaScript / TypeScript
   -  React
   -  Next.JS
-  -  Node / Express
+  -  Node.JS / Express.JS
   -  styled-components / tailwindcss
   -  jest / Playwright
   -  react-testing-library / Enzyme
